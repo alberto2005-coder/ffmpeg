@@ -1,0 +1,18 @@
+# Java
+*.class
+
+# Binaries
+ffprobe.exe
+ffprobe
+ffmpeg.exe
+ffmpeg
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
